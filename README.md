@@ -25,6 +25,8 @@ I want to be able to create and configure surveys
 
 So that I can administer surveys
 
+*NOTE this is only asking for the ability to configure a survey. The ability for a customer to respond to a survey is not required.*
+
 Acceptance Criteria:
 
 - ability to create/edit surveys
