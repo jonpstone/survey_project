@@ -1,6 +1,6 @@
 # README
 
-## Install (Nothing special)
+## Install (nothing special)
 
 - `git clone https://github.com/ahemmings/survey_project`
 - Make sure your Ruby environment is set up and configure `database.yml` to point to your MySQL instance for development.
@@ -20,7 +20,9 @@ Created using https://materializecss.com/ -- if you want to make your submission
 ## What to Implement
 
 As a system administrator of a customer facing application
+
 I want to be able to create and configure surveys
+
 So that I can administer surveys
 
 Acceptance Criteria:
