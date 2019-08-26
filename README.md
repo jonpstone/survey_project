@@ -31,6 +31,7 @@ Acceptance Criteria:
 - surveys have a name
 - surveys can have a due date (optional)
 - a survey consists of multiple questions:
+  - a question has question text
   - questions can be either Free Response or Fixed Response
   - Free Response are questions where a customer would respond with a text input
   - Fixed Response are questions where a customer would select an answer from a dropdown
