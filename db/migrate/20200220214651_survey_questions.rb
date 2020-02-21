@@ -3,6 +3,7 @@ class SurveyQuestions < ActiveRecord::Migration[6.0]
     create_table :writers do |t|
       t.string :question_text
       t.boolean :fixed_or_free_question
+      t.integer :survey_id
 
       t.timestamps
     end
