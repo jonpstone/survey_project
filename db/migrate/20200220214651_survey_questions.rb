@@ -1,6 +1,6 @@
-class SurveyQuestions < ActiveRecord::Migration[6.0]
+class CreateSurveyQuestions < ActiveRecord::Migration[6.0]
   def change
-    create_table :writers do |t|
+    create_table :survey_questions do |t|
       t.string :question_text
       t.boolean :fixed_or_free_question
       t.integer :survey_id
