@@ -4,4 +4,5 @@ class SurveyQuestion < ApplicationRecord
     validates_uniqueness :question_text
     validates_presence_of :question_text
     validates :name, length: { in: 5..240 }
+    validates_associated :survey
 end
